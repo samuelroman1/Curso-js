@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de js con node en ob",
+  "main": "index.js",
+  "scripts": {
+    "Start" :"node index.js",
+    "Saludar":"node Holamundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproyect"
+  ],
+  "author": "ParadiseMoon",
+  "license": "ISC"
+}
